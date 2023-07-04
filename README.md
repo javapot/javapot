@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @javapot
+- ☕ I’m interested in programming and making coffee
+- 🌱 I’m currently learning JavaScript and HTML
